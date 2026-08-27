@@ -1,187 +1,130 @@
 <div align="center">
-  <!-- Tu peux remplacer ce lien par un GIF de ton choix (cherche sur giphy.com) -->
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub Profile GIF" width="500">
+  <!-- Tu peux remplacer ce lien par un GIF "Data" ou "Coding" de ton choix sur giphy.com -->
+  <img src="https://media.giphy.com/media/l0HlOaQcLn2hO6JGM/giphy.gif" alt="Data Analyst GIF" width="500">
 </div>
 
-# <div align="center">🌟 [Ton Prénom et Nom]</div>  
-<div align="center"><b>[Ton Titre, ex: Développeur Full Stack | Étudiant en Data Science | Passionné d'Open Source]</b></div>  
-
----
+# <div align="center">🌟 Emmanuel Aka BONZO</div>  
+<div align="center"><b>Économiste Quantitatif | Data Analyst | Spécialiste Suivi-Évaluation (M&E)</b></div>  
 
 <div align="center">
-📍 <b>[Ta Ville, Pays]</b> | 📧 <a href="mailto:ton.email@exemple.com">ton.email@exemple.com</a> | 📞 [Ton Numéro] | 🔗 <a href="https://linkedin.com/in/ton-profil">LinkedIn</a>
+📍 <b>Abidjan, Côte d'Ivoire</b> | 📧 <a href="mailto:emmanuelakatchi@gmail.com">emmanuelakatchi@gmail.com</a> | 📞 +225 07 98 73 21 55 | 🔗 <a href="https://www.linkedin.com/in/emmanuel-aka-bonzo-0b21a0215/">LinkedIn</a>
 </div>  
 
 ---
 
 ## 🚀 **À propos de moi**  
-Passionné par **[ton domaine]** avec une solide base en **[compétence 1, compétence 2]**. Actuellement en train de **[ce que tu fais actuellement, ex: poursuivre un Master / développer des projets innovants]**. J'aime utiliser **[langage/outil 1, langage/outil 2]** pour résoudre des problèmes concrets et optimiser les performances.  
+Économiste quantitatif et Data Analyst spécialisé dans le **suivi-évaluation** et l'**analyse d'impact**. Expert dans l'automatisation des chaînes de traitement de données, de la collecte terrain (KoboToolbox) à la visualisation décisionnelle (Power BI, Python). Je conçois des systèmes de pilotage robustes qui transforment des données complexes en recommandations opérationnelles pour des projets de développement et des études économiques.
 
-🔹 **Compétences :** [Compétence 1] | [Compétence 2] | [Compétence 3]  
-🔹 **Langages :** [Langage 1], [Langage 2], [Langage 3]  
-🔹 **Outils :** [Outil 1], [Outil 2], [Outil 3]  
-
----
-
-## 🛠 **Compétences Techniques**  
-
-### **Langages & Outils**  
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">  
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">  
-  <!-- Ajoute ou supprime des badges selon tes compétences. Générateur : https://shields.io/ -->
-</div>  
-
-### **Domaines d'expertise**  
-📊 **Analyse de données** | 📈 **Modélisation** | 🔍 **Recherche**  
-🔄 **ETL** | 📉 **Visualisation de données**  
-
----
-
-## 💼 **Expérience Professionnelle**  
-
-### **[Nom de l'entreprise ou Université]**  
-📌 **[Ton Titre]** | *[Mois Année – Présent / Mois Année]*  
-- [Réalisation ou responsabilité 1, ex: Développement d'une application web avec React et Node.js]  
-- [Réalisation ou responsabilité 2, ex: Optimisation des requêtes SQL réduisant le temps de chargement de 30%]  
-- [Réalisation ou responsabilité 3]  
-
-### **[Nom de l'entreprise précédente]**  
-📌 **[Ton Titre]** | *[Mois Année – Mois Année]*  
-- [Réalisation ou responsabilité 1]  
-- [Réalisation ou responsabilité 2]  
-
----
-
-## 🎓 **Formation**  
-### **[Nom de l'Université ou École]**  
-🎯 **[Nom du Diplôme, ex: Master en Informatique]** (Mention : [Ta mention]) | *[Année de début – Année de fin]*  
-📚 Cours pertinents : [Cours 1], [Cours 2], [Cours 3]  
-
-### **[Nom de l'Université ou École précédente]**  
-🎯 **[Nom du Diplôme, ex: Licence en Mathématiques]** | *[Année de début – Année de fin]*  
-
----
-
-## 🌍 **Centres d'intérêt**  
-⚽ Sport | 🎵 Musique | ✈️ Voyages | 💻 Technologie | 📚 Lecture  
-
----
-
-<div align="center">
-  <h3>📌 Connectons-nous !</h3>
-  <a href="https://linkedin.com/in/ton-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ton.email@exemple.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/ton-username">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>  
-
----
-
-<div align="center">
-✨ <b>Merci de votre visite !</b> ✨
-</div><div align="center">
-  <!-- Tu peux remplacer ce lien par un GIF de ton choix (cherche sur giphy.com) -->
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub Profile GIF" width="500">
-</div>
-
-# <div align="center">🌟 [Ton Prénom et Nom]</div>  
-<div align="center"><b>[Ton Titre, ex: Développeur Full Stack | Étudiant en Data Science | Passionné d'Open Source]</b></div>  
-
----
-
-<div align="center">
-📍 <b>[Ta Ville, Pays]</b> | 📧 <a href="mailto:ton.email@exemple.com">ton.email@exemple.com</a> | 📞 [Ton Numéro] | 🔗 <a href="https://linkedin.com/in/ton-profil">LinkedIn</a>
-</div>  
-
----
-
-## 🚀 **À propos de moi**  
-Passionné par **[ton domaine]** avec une solide base en **[compétence 1, compétence 2]**. Actuellement en train de **[ce que tu fais actuellement, ex: poursuivre un Master / développer des projets innovants]**. J'aime utiliser **[langage/outil 1, langage/outil 2]** pour résoudre des problèmes concrets et optimiser les performances.  
-
-🔹 **Compétences :** [Compétence 1] | [Compétence 2] | [Compétence 3]  
-🔹 **Langages :** [Langage 1], [Langage 2], [Langage 3]  
-🔹 **Outils :** [Outil 1], [Outil 2], [Outil 3]  
+🔹 **Expertise :** Suivi-Évaluation (M&E) | Évaluation d'impact | Analyse spatiale (SIG)  
+🔹 **Langages :** Python, R, Stata, SQL, DAX  
+🔹 **Outils :** Power BI, Excel Avancé (VBA), KoboToolbox, PyQGIS, LaTeX  
 
 ---
 
 ## 🛠 **Compétences Techniques**  
 
-### **Langages & Outils**  
+### **Programmation & Outils**  
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">  
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">  
+  <img src="https://img.shields.io/badge/Stata-1A73E8?style=for-the-badge&logo=stata&logoColor=white" alt="Stata">  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">  
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">  
   <br>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">  
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">  
-  <!-- Ajoute ou supprime des badges selon tes compétences. Générateur : https://shields.io/ -->
+  <img src="https://img.shields.io/badge/KoboToolbox-4A90E2?style=for-the-badge&logo=kobotoolbox&logoColor=white" alt="KoboToolbox"> 
 </div>  
 
-### **Domaines d'expertise**  
-📊 **Analyse de données** | 📈 **Modélisation** | 🔍 **Recherche**  
-🔄 **ETL** | 📉 **Visualisation de données**  
+### **Analyse & Méthodologies**  
+📊 **Économétrie & Modélisation** | 📈 **Évaluation d'impact (DiD, PPML)** | 🔍 **Analyse spatiale (PyQGIS)**  
+🔄 **Automatisation ETL** | 📉 **Tableaux de bord décisionnels**  
 
 ---
 
-## 💼 **Expérience Professionnelle**  
+## 💼 **Expériences Professionnelles**  
 
-### **[Nom de l'entreprise ou Université]**  
-📌 **[Ton Titre]** | *[Mois Année – Présent / Mois Année]*  
-- [Réalisation ou responsabilité 1, ex: Développement d'une application web avec React et Node.js]  
-- [Réalisation ou responsabilité 2, ex: Optimisation des requêtes SQL réduisant le temps de chargement de 30%]  
-- [Réalisation ou responsabilité 3]  
+### **CC-PRICI / Projet de Connectivité Rurale (PCR-CI)**  
+📌 **Assistant Suivi-Évaluation** | *Fév. 2024 – Présent* *(Vérifie l'année)*  
+- Conception et déploiement de workflows automatisés de traitement de données, réduisant les délais de reporting.  
+- Structuration et gestion de bases de données géospatiales (SIG) avec scripts **PyQGIS** pour l'analyse des infrastructures.  
+- Élaboration de tableaux de bord décisionnels interactifs pour le pilotage en temps réel des KPIs.  
 
-### **[Nom de l'entreprise précédente]**  
-📌 **[Ton Titre]** | *[Mois Année – Mois Année]*  
-- [Réalisation ou responsabilité 1]  
-- [Réalisation ou responsabilité 2]  
+### **CC-PRICI / PREMU-FA**  
+📌 **Assistant Suivi-Évaluation** | *Mai 2023 – Jan. 2024* *(Vérifie l'année)*  
+- Automatisation du suivi des projets via la création de dashboards dynamiques (Power BI).  
+- Traitement, apurement et analyse statistique des données de terrain pour garantir la fiabilité des rapports bailleurs.  
+- Conception d'outils de collecte de données numériques (KoboToolbox) optimisés pour le M&E.  
+
+### **INVERSE CI**  
+📌 **Stagiaire Statisticien - Data Analyst** | *Jan. 2024 – Juil. 2024* *(Vérifie l'année)*  
+- Administration d'enquêtes mobiles via **KoboToolbox** (logique de saut, contraintes de validation).  
+- Nettoyage et analyse approfondie de bases de données complexes pour des études de marché et business plans.  
+- Rédaction de rapports d'études statistiques et veille stratégique pour les appels d'offres (DAO).  
 
 ---
 
-## 🎓 **Formation**  
-### **[Nom de l'Université ou École]**  
-🎯 **[Nom du Diplôme, ex: Master en Informatique]** (Mention : [Ta mention]) | *[Année de début – Année de fin]*  
-📚 Cours pertinents : [Cours 1], [Cours 2], [Cours 3]  
+## 🎓 **Formation Académique**  
+### **CERAP / Université Jésuite, Abidjan**  
+🎯 **Master en Économétrie et Statistiques** | *2023 – 2025*  
+📚 Focus : Économie quantitative, Évaluation d'impact, Modélisation statistique.  
 
-### **[Nom de l'Université ou École précédente]**  
-🎯 **[Nom du Diplôme, ex: Licence en Mathématiques]** | *[Année de début – Année de fin]*  
+### **Université Méthodiste de Côte d'Ivoire, Abidjan**  
+🎯 **Licence en Sciences Économiques** | *2020 – 2023*  
+📚 Focus : Statistiques inférentielles, Mathématiques appliquées, Micro/Macroéconomie.  
+
+---
+
+## 🚀 **Projets Appliqués & Réalisations**  
+
+### **📊 Évaluation d'impact de la CEDEAO sur le commerce intrarégional**  
+*Outils : Stata, Python, Power BI*  
+- Constitution et nettoyage d'un panel de données macroéconomiques (1995-2024).  
+- Implémentation d'une stratégie d'identification causale via l'estimateur PPML (Poisson Pseudo Maximum Likelihood).  
+
+### **⚙️ Automatisation de flux de données et Tableaux de bord**  
+*Outils : Python, KoboToolbox, Power BI*  
+- Développement de scripts Python pour la récupération et la mise en forme automatique des données d'enquêtes.  
+- Conception de dashboards interactifs pour le suivi opérationnel des activités de terrain.  
+
+### **🔔 Système d'alerte automatisé des cautions contractuelles**  
+*Outils : Python, GitHub Actions, API OneDrive*  
+- Conception d'un workflow sous GitHub Actions pour le suivi dynamique des échéances de garanties bancaires.  
+- Déploiement d'un système d'alertes e-mail personnalisées, éliminant le risque d'expiration.  
+
+---
+
+## 📜 **Certifications**  
+- 🎓 **Python for Data Science & Analysis** (IBM Cognitive Class)  
+- 🎓 **Suivi et Évaluation : Gestion axée sur les résultats** (Cabinet MBS)  
+- 🎓 **Suivi et Évaluation : Projets de développement** (AFD)  
 
 ---
 
 ## 🌍 **Centres d'intérêt**  
-⚽ Sport | 🎵 Musique | ✈️ Voyages | 💻 Technologie | 📚 Lecture  
+📈 Économie du développement | 🌍 Open Data & SIG | 💻 Innovation technologique | 📚 Veille méthodologique  
 
 ---
 
 <div align="center">
   <h3>📌 Connectons-nous !</h3>
-  <a href="https://linkedin.com/in/ton-profil">
+  <a href="https://www.linkedin.com/in/emmanuel-aka-bonzo-0b21a0215/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:ton.email@exemple.com">
+  <a href="mailto:emmanuelakatchi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/ton-username">
+  <a href="https://github.com/iamemanuelaka">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://wa.me">
+    <img src="https://shields.io" alt="WhatsApp">
   </a>
 </div>  
 
 ---
 
 <div align="center">
-✨ <b>Merci de votre visite !</b> ✨
+✨ <b>Merci de votre visite ! N'hésitez pas à explorer mes dépôts.</b> ✨
 </div>
