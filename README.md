@@ -106,7 +106,6 @@
 📈 Économie du développement | 🌍 Open Data & SIG | 💻 Innovation technologique | 📚 Veille méthodologique  
 
 ---
-
 <div align="center">
   <h3>📌 Connectons-nous !</h3>
   <a href="https://www.linkedin.com/in/emmanuel-aka-bonzo-0b21a0215/">
@@ -121,7 +120,7 @@
   <a href="https://wa.me/2250798732155">
     <img src="https://shields.io" alt="WhatsApp">
   </a>
-</div>  
+</div>
 
 ---
 
