@@ -2,9 +2,7 @@
   <img src="github profile.gif" alt="GitHub Profile GIF" width="500">
 </div>
 <div align="center">
-  <!-- Tu peux remplacer ce lien par un GIF "Data" ou "Coding" de ton choix sur giphy.com -->
-  <img src="https://media.giphy.com/media/l0HlOaQcLn2hO6JGM/giphy.gif" alt="Data Analyst GIF" width="500">
-</div>
+  
 
 # <div align="center">🌟 Emmanuel Aka BONZO</div>  
 <div align="center"><b>Économiste Quantitatif | Data Analyst | Spécialiste Suivi-Évaluation (M&E)</b></div>  
