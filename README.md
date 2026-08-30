@@ -1,10 +1,11 @@
 <div align="center">
   <img src="github profile.gif" alt="GitHub Profile GIF" width="500">
 </div>
-<div align="center">
   
 
+
 # <div align="center">🌟 Emmanuel Aka BONZO</div>  
+
 <div align="center"><b>Économiste Quantitatif | Data Analyst | Spécialiste Suivi-Évaluation (M&E)</b></div>  
 
 <div >
