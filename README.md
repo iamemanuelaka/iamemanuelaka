@@ -40,8 +40,11 @@
 </div>  
 
 ### **Analyse & Méthodologies**  
+<div align="center">
+
 📊 **Économétrie & Modélisation** | 📈 **Évaluation d'impact (DiD, PPML)** | 🔍 **Analyse spatiale (PyQGIS)**  
 🔄 **Automatisation ETL** | 📉 **Tableaux de bord décisionnels**  
+</div>  
 
 ---
 
