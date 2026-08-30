@@ -47,19 +47,19 @@
 ## 💼 **Expériences Professionnelles**  
 
 ### **CC-PRICI / Projet de Connectivité Rurale (PCR-CI)**  
-📌 **Assistant Suivi-Évaluation** | *Fév. 2024 – Présent* 
+📌 **Assistant Suivi-Évaluation** | *Fév. 2026 – Présent* 
 - Conception et déploiement de workflows automatisés de traitement de données, réduisant les délais de reporting.  
 - Structuration et gestion de bases de données géospatiales (SIG) avec scripts **PyQGIS** pour l'analyse des infrastructures.  
 - Élaboration de tableaux de bord décisionnels interactifs pour le pilotage en temps réel des KPIs.  
 
 ### **CC-PRICI / PREMU-FA**  
-📌 **Assistant Suivi-Évaluation** | *Mai 2023 – Jan. 2024* 
+📌 **Assistant Suivi-Évaluation** | *Mai 2025 – Jan. 2026* 
 - Automatisation du suivi des projets via la création de dashboards dynamiques (Power BI).  
 - Traitement, apurement et analyse statistique des données de terrain pour garantir la fiabilité des rapports bailleurs.  
 - Conception d'outils de collecte de données numériques (KoboToolbox) optimisés pour le M&E.  
 
 ### **INVERSE CI**  
-📌 **Stagiaire Statisticien - Data Analyst** | *Jan. 2024 – Juil. 2024* 
+📌 **Stagiaire Statisticien - Data Analyst** | *Jan. 2025 – Juil. 2025* 
 - Administration d'enquêtes mobiles via **KoboToolbox** (logique de saut, contraintes de validation).  
 - Nettoyage et analyse approfondie de bases de données complexes pour des études de marché et business plans.  
 - Rédaction de rapports d'études statistiques et veille stratégique pour les appels d'offres (DAO).  
