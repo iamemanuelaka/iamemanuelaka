@@ -8,7 +8,7 @@
 
 <div align="center"><b>Économiste Quantitatif | Data Analyst | Spécialiste Suivi-Évaluation (M&E)</b></div>  
 
-<div >
+<div align="center">
 📍 <b>Abidjan, Côte d'Ivoire</b> | 📧 <a href="mailto:emmanuelakatchi@gmail.com">emmanuelakatchi@gmail.com</a> | 📞 +225 07 98 73 21 55 | 🔗 <a href="https://www.linkedin.com/in/emmanuel-aka-bonzo-0b21a0215/">LinkedIn</a>
 </div>  
 
